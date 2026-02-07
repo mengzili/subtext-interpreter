@@ -1,4 +1,4 @@
-# Hidden Rule Translator（潜台词翻译器）
+# Subtext Translator（潜台词翻译器）
 
 一个运行在智能眼镜上的 AI 沟通助手 App，基于 [xg.glass SDK](https://xg.glass) 构建。
 
@@ -86,3 +86,4 @@ ctx.client.display(advice, DisplayOptions())
 - **语言**：修改 Whisper 的 `language` 参数（当前为 `"zh"` 中文）
 - **Prompt 风格**：修改 `systemPrompt` 以适配不同场景（职场、社交等）
 - **模型**：可替换为 `gpt-4o` 以获得更高质量的分析
+
